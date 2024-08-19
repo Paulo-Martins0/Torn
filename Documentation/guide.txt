@@ -1,0 +1,4 @@
+assets: Contém os arquivos estáticos como CSS, JavaScript e imagens.
+components: Contém partes reutilizáveis do HTML, como cabeçalhos e rodapés.
+pages: Contém as páginas principais do site.
+utils: Contém scripts utilitários ou funções JavaScript.
